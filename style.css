@@ -28,7 +28,6 @@ img{
 
 .welcome{
     background-color: #323230;
-    grid-auto-rows: 1fr;
     padding: 20px 30px 30px;
 }
 
